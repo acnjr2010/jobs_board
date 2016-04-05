@@ -8,4 +8,4 @@ Este projeto foi construído visando o aprendizado de Ruby on Rails levando tend
 
 O projeto foi deployado no heroku e pode ser visto clicando no link abaixo
 
-[Acessar Jobs Board](hhttps://murmuring-sands-37752.herokuapp.com/)
+[Acessar Jobs Board](https://murmuring-sands-37752.herokuapp.com/)
